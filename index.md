@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Our Website
 
-You can use the [editor on GitHub](https://github.com/YaBoiiRayZ/websitez/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Well If You Don't Know What Is Clan. Then What Are You Doing Here!?
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
